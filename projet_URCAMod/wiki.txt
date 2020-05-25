@@ -1,0 +1,175 @@
+x	- table de craft 
+x		table de craft modé
+x	- biome
+x		structure
+x		mob
+x		boss
+x	- monde Rabat
+x		portail
+x		portail igniter
+x		structure
+x		boss
+x	- nourriture
+x		outils 
+x			cutter
+x			cutter board
+x		ail
+x		saucisson
+x		saucisson à l’ail
+x		fetch
+x		toast
+x		raisin
+x		soupe à l’ail et aux champignons
+x		vin
+x		tarte aux fetchs
+x	- culture
+x		ail
+x		fetch
+x		raisin
+x	- structure
+x		tanière des loups
+x			forêt
+x			desert
+x		villages 
+x			broken village
+x			manoir
+x			broken village 2
+x			broken village 3
+x		cimetière avec crypte
+x		chapelle
+	- mobs et boss
+x		Vampires :
+x			vampire
+x			vampire beast
+x			baroness vampire
+		loups garous
+x			loup garou
+			wolf
+x		boss
+x			the butcher
+x			Mr Rabat
+x	- blocks
+x		ore
+x			plomb
+x			plomb Block
+x			silver
+x			Silver block
+x		bois 
+x			bois de fetchier
+x			fetchier plank
+x			fetchier slab
+x			fetchier stairs
+x			fetchier fence
+x			prunier fetch feuilles
+x			prunier fetch bois
+x		stone 
+x			blackstone
+x			blackstone slab
+x			blackston stairs
+x		décoration
+x			skelon
+x			stone stab
+x			oger bloody skull
+x			skull
+x			iron chaine
+x			terre morte
+x			pousse de fetchier
+x			rabat skull
+x	- outils
+x		silver
+x			pickaxe
+x			axe
+x			shovel
+x			hoe
+x	- armes et armures
+x		armes
+x			silver sword
+x			holy cross
+x			pistol
+x			musket		
+x		armure
+x			silver 
+x				helmet
+x				chestplate
+x				leggings
+x				boots
+	- items 
+x		bullet and powder
+x		plomb
+x		silver
+x		ail seed
+		noyau fetch
+x		raisin seed
+x		cutter
+x		cutter board
+x	- fluides
+x		eau bénite
+	- recettes
+x		plomb
+x		plomb block
+x		silver
+x		silver block
+x		armure
+x			helmet
+x			chestplate
+x			leggings
+x			boots
+x		armes
+x			sword
+x			holy cross
+x			musket
+x			pistol
+x		outils
+x			pickaxe
+x			axe
+x			shovel
+x			hoe
+x		bullet and powder
+x		ail seed
+x		crafting table
+x		cutter board
+x		cutter
+x		saucisson à l’ail
+x		saucisson
+x		tarte aux fetch 
+x		bois
+x			slab
+x			fence
+x			planks
+x			stairs
+x			sticks
+x		toast
+x		vin
+x		soupe à l’ail et aux champignons
+		portal Igniter
+		blackstone 
+			block
+			slab
+			stairs
+x	- plant
+x		ail seed plant dans le biome terre désolée
+
+
+
+
+
+
+
+
+
+
+
+
+update du wiki : 
+petit bilan à cette heure de ce qu'il reste à faire dans le wiki (si c'est mis c'est qu'il manque quelque chose, soit une image, soit un texte décrivant) :
+pour les crafts il faut juste écrire leurs composition, par exemple 2 batons et 4 planches de fetchier :wink: 
+@Haizater#6906  :
+- crafts : blackstone : les crafts de manière écrite stp
+
+
+update rapport : 
+petit bilan à cette heure de ce qu'il reste à faire dans le rapport : 
+dans "partie représentative du travail fournis" j'entend quelque chose que vous avez eu du mal à comprendre, réaliser, quelques chose que vous voulez mettre en avant...
+@Broussk#2448  :  partie perso + partie représentative du travail fournis
+@MoustiFührer#5758 :   partie perso + partie représentative du travail fournis
+@Jenny#7886  :  partie représentative du travail fournis

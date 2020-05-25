@@ -1,0 +1,17 @@
+Recipes : 
+X	silver helmet
+X	silver chestplate
+X	silver leggings
+X	silver boots
+X	silver pickaxe
+X	silver axe
+X	silver shovel
+X	silver sword
+X	silver hoe
+X	Bullet and powder
+X	musket
+X	silver block
+X	plomb block
+X	ail seed
+X	pistol
+à partir de la table de craft normale =>	table de craft modée
