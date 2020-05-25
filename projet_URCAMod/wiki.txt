@@ -148,28 +148,3 @@ x		soupe à l’ail et aux champignons
 			stairs
 x	- plant
 x		ail seed plant dans le biome terre désolée
-
-
-
-
-
-
-
-
-
-
-
-
-update du wiki : 
-petit bilan à cette heure de ce qu'il reste à faire dans le wiki (si c'est mis c'est qu'il manque quelque chose, soit une image, soit un texte décrivant) :
-pour les crafts il faut juste écrire leurs composition, par exemple 2 batons et 4 planches de fetchier :wink: 
-@Haizater#6906  :
-- crafts : blackstone : les crafts de manière écrite stp
-
-
-update rapport : 
-petit bilan à cette heure de ce qu'il reste à faire dans le rapport : 
-dans "partie représentative du travail fournis" j'entend quelque chose que vous avez eu du mal à comprendre, réaliser, quelques chose que vous voulez mettre en avant...
-@Broussk#2448  :  partie perso + partie représentative du travail fournis
-@MoustiFührer#5758 :   partie perso + partie représentative du travail fournis
-@Jenny#7886  :  partie représentative du travail fournis
